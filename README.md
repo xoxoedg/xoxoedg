@@ -6,18 +6,17 @@ Junior Software Developer · Systems & Security Enthusiast
 ---
 
 ### 🌍 About Me
-I’m easily fascinated by how things work — from the structure of code to the logic that holds systems together.  
+I’m easily fascinated by how things work, from the structure of code to the logic that holds systems together.  
 I love taking ideas apart, tracing them to their core, and understanding why they behave the way they do.  
 That curiosity drives everything I do, whether I’m learning, building, or debugging.
 
 Outside of code, I spend time training, reflecting, and refining focus.  
-I care about doing things with clarity and intention — technology is just one form of that practice.
+I care about doing things with clarity and intention. I strongly care doing things with a meaning.
 
 ---
 
 ### ⚙️ Interests
-I’m drawn to the foundations —  
-how systems connect, communicate, and work.
+I’m drawn to the foundations. I love exploring how systems connect, communicate and work.
 
 - **Low-level programming** — exploring what really happens beneath abstractions  
 - **Networking** — from raw protocols to secure architectures  
