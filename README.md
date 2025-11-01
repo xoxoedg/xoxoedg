@@ -41,3 +41,4 @@ I’m drawn to the foundations. I love exploring how systems connect, communicat
 ---
 
 > “Curiosity builds depth — and depth creates understanding.”
+> Forever thankful for my wonderful mother 
